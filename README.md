@@ -1,5 +1,13 @@
-### Hi there 👋
+### 👋 I'm @sidgupta234. I ❤️ Computer Science! 👨‍💻 
+Interested in Programming, Linguistics and Academia.  When I am not consumed with college assignments, I post [YouTube videos](https://www.youtube.com/CollegeCompanion), make Discord bots, write [Twitter](https://www.twitter.com/sidgupta234) [threads](https://twitter.com/sidgupta234/status/1450455120911736839), work on automation/web app projects [Github](https://www.github.com/sidgupta234) or try threading some words on [Medium Blog](https://www.sidgupta234.medium.com).
 
+I also have a [mailing list](https://www.getrevue.co/profile/LanguageOfMe)
+
+ ![This is Siddharth Gupta](https://i.ibb.co/FmnFhy6/kuso-Cartoon-16360057410673-avatar.jpg)
+
+[![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgupta234)](https://github.com/sidgupta234/github-readme-stats)
+
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=sidgupta234 alt=sidgupta234/> </p>
 <!--
 **sidgupta234/sidgupta234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
