@@ -3,9 +3,14 @@ Interested in Programming, Linguistics and Academia.  When I am not consumed wit
 
 I also have a [mailing list](https://www.getrevue.co/profile/LanguageOfMe)
 
+[![Linkedin Badge](https://img.shields.io/badge/-sidgupta234-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sidgupta234/)](https://www.linkedin.com/in/sidgupta234/)
+[![Medium Badge](https://img.shields.io/badge/-@sidgupta234-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sidgupta234/)](https://medium.com/@sidgupta234)
+[![Gmail Badge](https://img.shields.io/badge/-siddharthgupta234@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siddharthgupta234@gmail.com)](mailto:siddharthgupta234@gmail.com)
+
  ![This is Siddharth Gupta](https://i.ibb.co/FmnFhy6/kuso-Cartoon-16360057410673-avatar.jpg)
 
 [![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgupta234)](https://github.com/sidgupta234/github-readme-stats)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgupta234&layout=compact)-->
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=sidgupta234 alt=sidgupta234/> </p>
 <!--
