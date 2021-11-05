@@ -3,7 +3,8 @@ Interested in Programming, Linguistics and Academia.  When I am not consumed wit
 
 I also have a [mailing list](https://www.getrevue.co/profile/LanguageOfMe)
 
-[![Linkedin Badge](https://img.shields.io/badge/-sidgupta234-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sidgupta234/)](https://www.linkedin.com/in/sidgupta234/)
+[![Linkedin Badge](https://img.shields.io/badge/-sidgupta234-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sidgupta234/)](https://www.linkedin.com/in/sidgupta234/)
+[![Twitter Badge](https://img.shields.io/badge/-sidgupta234-00acee?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/sidgupta234/)](https://www.twitter.com/sidgupta234/)
 [![Medium Badge](https://img.shields.io/badge/-@sidgupta234-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sidgupta234/)](https://medium.com/@sidgupta234)
 [![Gmail Badge](https://img.shields.io/badge/-siddharthgupta234@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siddharthgupta234@gmail.com)](mailto:siddharthgupta234@gmail.com)
 
