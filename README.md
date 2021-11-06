@@ -11,7 +11,7 @@ I also have a [mailing list](https://www.getrevue.co/profile/LanguageOfMe)
  ![This is Siddharth Gupta](https://i.ibb.co/FmnFhy6/kuso-Cartoon-16360057410673-avatar.jpg)
 
 [![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgupta234)](https://github.com/sidgupta234/github-readme-stats)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgupta234&layout=compact)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgupta234&layout=compact)
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=sidgupta234 alt=sidgupta234/> </p>
 <!--
