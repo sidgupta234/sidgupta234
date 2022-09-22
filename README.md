@@ -1,5 +1,5 @@
 ### 👋 I'm [@sidgupta234](https://www.languageof.me). I ❤️ Computer Science! 👨‍💻 
-Interested in NLP, Analytics, Web Development, Deep Learning, Linguistics and Academia.  When I am not consumed with college assignments, I post [YouTube videos](https://www.youtube.com/CollegeCompanion), make Discord bots, write [Twitter](https://www.twitter.com/sidgupta234) [threads](https://twitter.com/sidgupta234/status/1450455120911736839), work on automation/web app projects [Github](https://www.github.com/sidgupta234) or try threading some words on [Medium Blog](https://www.sidgupta234.medium.com).
+Interested in NLP, Analytics, Web Development, Deep Learning, Linguistics, Behavioral Economics and Academia.  When I am not consumed with college assignments, I post [YouTube videos](https://www.youtube.com/CollegeCompanion), make Discord bots, write [Twitter](https://www.twitter.com/sidgupta234) [threads](https://twitter.com/sidgupta234/status/1450455120911736839), work on automation/web app projects [Github](https://www.github.com/sidgupta234) or try threading some words on [Medium Blog](https://www.sidgupta234.medium.com).
 
 I also have a [mailing list](https://www.getrevue.co/profile/LanguageOfMe)
 
