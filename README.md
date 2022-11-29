@@ -27,7 +27,7 @@ I also have a [mailing list](https://www.getrevue.co/profile/LanguageOfMe)
 - <b> Geeks for Geeks Data Structure programs </b> | [Codes](https://github.com/sidgupta234/GFG) - Basic starter codes as well as solutions to introductory data structure problems listed on Geeks4Geeks website (Binary Tree, BST, Linked List, Queues, Stacks, Recursion, Heaps).
 
 ### Public talks 🗣
-- <b>Streamlit to Build & Deploy Apps like a Data Scientist </b> | [Talk](https://youtu.be/onPlqEO0lN0) | [Slides](https://docs.google.com/presentation/d/116kf2akZFXjGsDgZsfANTk5fmDcNIljXgmTrLAyzeFo/edit?usp=sharing) | [Code walkthrough](https://github.com/sidgupta234/Pyjamas_2022_Talk) @ Pyjamas Con 2022
+- <b>Streamlit to Build & Deploy Apps like a Data Scientist </b> | [Talk](https://youtu.be/hLhDlxmUQ5c?t=966) | [Slides](https://docs.google.com/presentation/d/116kf2akZFXjGsDgZsfANTk5fmDcNIljXgmTrLAyzeFo/edit?usp=sharing) | [Code walkthrough](https://github.com/sidgupta234/Pyjamas_2022_Talk) @ Pyjamas Con 2022
 
 [![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgupta234&theme=radical)](https://github.com/sidgupta234/github-readme-stats)
 
