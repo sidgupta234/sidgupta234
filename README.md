@@ -8,6 +8,7 @@ Interested in NLP, Linguistics, Behavioral Economics, Deep Learning, Analytics, 
 
 <!-- ![This is Siddharth Gupta](https://i.ibb.co/FmnFhy6/kuso-Cartoon-16360057410673-avatar.jpg)-->
 <img src="https://i.imgur.com/F056Hyv.png"/>
+
  ### Education 🎓
 - <b>[Master’s degree](https://cogsci.iitd.ac.in/msc2023/siddharth-gupta/)</b> Cognitive Science MSc @ Indian Institute of Technology Delhi, India
 - <b>Bachelor's degree</b> Computer Science Engineering @ USICT, Guru Gobind Singh Indraprastha University Delhi, India
