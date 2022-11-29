@@ -10,7 +10,7 @@ I also have a [mailing list](https://www.getrevue.co/profile/LanguageOfMe)
 
  ![This is Siddharth Gupta](https://i.ibb.co/FmnFhy6/kuso-Cartoon-16360057410673-avatar.jpg)
  
- ### Education 🎓``
+ ### Education 🎓
 - <b>[Master’s degree](https://cogsci.iitd.ac.in/msc2023/siddharth-gupta/)</b> Cognitive Science MSc @ Indian Institute of Technology Delhi, India
 - <b>Bachelor's degree</b> Computer Science Engineering @ USICT, Guru Gobind Singh Indraprastha University Delhi, India
 
@@ -28,6 +28,16 @@ I also have a [mailing list](https://www.getrevue.co/profile/LanguageOfMe)
 
 ### Public talks 🗣
 - <b>Streamlit to Build & Deploy Apps like a Data Scientist </b> | [Talk](https://youtu.be/hLhDlxmUQ5c?t=966) | [Slides](https://docs.google.com/presentation/d/116kf2akZFXjGsDgZsfANTk5fmDcNIljXgmTrLAyzeFo/edit?usp=sharing) | [Code walkthrough](https://github.com/sidgupta234/Pyjamas_2022_Talk) @ Pyjamas Con 2022
+
+### Conference Publications / Posters 📢
+- [Language and Interaction Network Conference, Univ. of Edinburgh](https://linkedi2022.github.io)<b> | When Brain Autocorrects </b> | [Poster](https://continuous-fascinator-15a.notion.site/When-Brain-Autocorrects-0a708259d7bf45f0837d00edc259842b) - Conducted Lexical Decision Test to probe if people consider incorrectly spelled words as correct under certain conditions.
+
+### Popular Blogs 📝
+- [Connectionism: Neural Networks from Cognitive Science lens](https://medium.com/p/6ffdf5bb87be)
+- [Supervised, Unsupervised, Reinforcement Learning](https://medium.com/p/e337a72fd675)
+- [Linear Regression, Gradient Descent](https://sidgupta234.medium.com/stanford-coursera-machine-learning-know-all-about-linear-regression-and-gradient-descent-4d747c42cd31)
+- [My experiences with people in Tokyo, Japan](https://medium.com/p/79ce772ce475)
+- [First hackathon Experience](https://medium.com/p/732a3f203f19)
 
 [![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgupta234&theme=radical)](https://github.com/sidgupta234/github-readme-stats)
 
