@@ -4,10 +4,17 @@ Interested in NLP, Linguistics, Behavioral Economics, Deep Learning, Analytics, 
 [![Linkedin Badge](https://img.shields.io/badge/-sidgupta234-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sidgupta234/)](https://www.linkedin.com/in/sidgupta234/)
 [![Twitter Badge](https://img.shields.io/badge/-sidgupta234-00acee?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/sidgupta234/)](https://www.twitter.com/sidgupta234/)
 [![Medium Badge](https://img.shields.io/badge/-@sidgupta234-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sidgupta234/)](https://medium.com/@sidgupta234)
+[![YouTube Badge](https://img.shields.io/badge/-College_Companion-ff0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/CollegeCompanion)](https://www.youtube.com/c/CollegeCompanion)
 [![Gmail Badge](https://img.shields.io/badge/-siddharthgupta234@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siddharthgupta234@gmail.com)](mailto:siddharthgupta234@gmail.com)
 
 <!-- ![This is Siddharth Gupta](https://i.ibb.co/FmnFhy6/kuso-Cartoon-16360057410673-avatar.jpg)-->
 <img src="https://i.imgur.com/F056Hyv.png"/>
+
+### Skills 🛠️
+- **Languages**: Python, C++
+- **DS/ML/DL**: Pandas, Sklearn, PyTorch, Streamlit
+- **Cognitive Science relevant**:  SPM, Psychopy, R
+- **Dev related**:  Linux, Git
 
  ### Education 🎓
 - <b>[Master’s degree](https://cogsci.iitd.ac.in/msc2023/siddharth-gupta/)</b> Cognitive Science MSc @ Indian Institute of Technology Delhi, India
