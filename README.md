@@ -9,6 +9,25 @@ I also have a [mailing list](https://www.getrevue.co/profile/LanguageOfMe)
 [![Gmail Badge](https://img.shields.io/badge/-siddharthgupta234@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siddharthgupta234@gmail.com)](mailto:siddharthgupta234@gmail.com)
 
  ![This is Siddharth Gupta](https://i.ibb.co/FmnFhy6/kuso-Cartoon-16360057410673-avatar.jpg)
+ 
+ ### Education 🎓``
+- <b>[Master’s degree](https://cogsci.iitd.ac.in/msc2023/siddharth-gupta/)</b> Cognitive Science MSc @ Indian Institute of Technology Delhi, India
+- <b>Bachelor's degree</b> Computer Science Engineering @ USICT, Guru Gobind Singh Indraprastha University Delhi, India
+
+### Projects 🐾
+- <b>Song Analytics & Playlist Generator</b> | [Web App](http://music-analytics-playlist-maker.herokuapp.com/) - Created dataset of Lyrics for 21K top billboard songs (out of total 28K). App shows various song properties: lyrics, audio properties, billboard rank over years; the app also create Spotify playlists based on the song.
+- <b>XKCD Comic Fetcher</b> | [Web App](https://xkcd-fetcher.herokuapp.com/) | [Code](https://github.com/sidgupta234/xkcd-comic-fetcher) - Give a keyword, and get the xkcd comic in response for your PPT needs :D.
+- <b>Indian English ASR </b> | [Code](https://github.com/sidgupta234/Indian_English_ASR) - An Indian English ASR system based on Hidden Markov Models (HMM) has been designed using Kaldi(Povey et al., 2011). Used available continuous English speech transcribed data obtained from non-native Indian English speakers in order to build an ASR system. This project was made as part of the IIIT Hyderabad Advanced Summer School on Natural Language Processing (IASNLP 2022).
+- <b>Automated Essay Scoring </b> | [Web App](http://essay-rater.in/) | [Code](https://github.com/sidgupta234/kaggle_automated_essay_scoring) - Assess the language proficiency of 8th-12th grade English Language Learners (ELLs). Given an essay, we need to come up with a model that can rate the essay on the basis of: cohesion, syntax, vocabulary, phraseology, grammar, and conventions. I operationalized vocabulary and conventions with basic heuristics.
+- <b>Revivify </b> | [Code](https://github.com/sidgupta234/Revivify) - The system is able to provide information without any need of visual interaction. In speech, the system asks the user his query, the query may ask to find :- Every relevant information on a topic; a summary of any topic; the meaning and synonym of a word. 
+
+### Programming Resources I made ‍💻
+- <b> Basic Python Programming notes </b> | [Jupyter notebook notes](https://github.com/sidgupta234/CodingNinjas_DataScience_MachineLearning) - This repository contains my Jupyter notebook notes for the said course by CodingNinjas. Notes have been written in a way that they are sufficient on their own to learn the basics of Python.
+- <b> Interviewbit solutions </b> | [Codes](https://github.com/sidgupta234/InterviewBit) - Popular Software Engineering interview questions posed on Interviewbit and their solutions.
+- <b> Geeks for Geeks Data Structure programs </b> | [Codes](https://github.com/sidgupta234/GFG) - Basic starter codes as well as solutions to introductory data structure problems listed on Geeks4Geeks website (Binary Tree, BST, Linked List, Queues, Stacks, Recursion, Heaps).
+
+### Public talks 🗣
+- <b>Streamlit to Build & Deploy Apps like a Data Scientist </b> | [Talk](https://youtu.be/onPlqEO0lN0) | [Slides](https://docs.google.com/presentation/d/116kf2akZFXjGsDgZsfANTk5fmDcNIljXgmTrLAyzeFo/edit?usp=sharing) | [Code walkthrough](https://github.com/sidgupta234/Pyjamas_2022_Talk) @ Pyjamas Con 2022
 
 [![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgupta234&theme=radical)](https://github.com/sidgupta234/github-readme-stats)
 
