@@ -1,15 +1,13 @@
-### 👋 I'm [@sidgupta234](https://www.languageof.me). I ❤️ Computer Science! 👨‍💻 
+### 👋 I'm [@sidgupta234](https://www.languageof.me). I ❤️ Computer Science and Cognitive Science! 👨‍💻 
 Interested in NLP, Linguistics, Behavioral Economics, Deep Learning, Analytics, and Academia.  When I am not consumed with college assignments, I post [YouTube videos](https://www.youtube.com/CollegeCompanion), make Discord bots, write [Twitter](https://www.twitter.com/sidgupta234) [threads](https://twitter.com/sidgupta234/status/1450455120911736839), work on automation/web app projects [Github](https://www.github.com/sidgupta234) or try threading some words on [Medium Blog](https://www.sidgupta234.medium.com).
-
-I also have a [mailing list](https://www.getrevue.co/profile/LanguageOfMe)
 
 [![Linkedin Badge](https://img.shields.io/badge/-sidgupta234-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sidgupta234/)](https://www.linkedin.com/in/sidgupta234/)
 [![Twitter Badge](https://img.shields.io/badge/-sidgupta234-00acee?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/sidgupta234/)](https://www.twitter.com/sidgupta234/)
 [![Medium Badge](https://img.shields.io/badge/-@sidgupta234-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sidgupta234/)](https://medium.com/@sidgupta234)
 [![Gmail Badge](https://img.shields.io/badge/-siddharthgupta234@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siddharthgupta234@gmail.com)](mailto:siddharthgupta234@gmail.com)
 
- ![This is Siddharth Gupta](https://i.ibb.co/FmnFhy6/kuso-Cartoon-16360057410673-avatar.jpg)
- 
+<!-- ![This is Siddharth Gupta](https://i.ibb.co/FmnFhy6/kuso-Cartoon-16360057410673-avatar.jpg)-->
+<img src="https://i.imgur.com/RhSTCcK.jpg"/>
  ### Education 🎓
 - <b>[Master’s degree](https://cogsci.iitd.ac.in/msc2023/siddharth-gupta/)</b> Cognitive Science MSc @ Indian Institute of Technology Delhi, India
 - <b>Bachelor's degree</b> Computer Science Engineering @ USICT, Guru Gobind Singh Indraprastha University Delhi, India
