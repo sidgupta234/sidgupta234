@@ -18,6 +18,7 @@ Interested in NLP, Linguistics, Behavioral Economics, Deep Learning, Analytics, 
 
  ### Education 🎓
 - <b>[Master’s degree](https://cogsci.iitd.ac.in/msc2023/siddharth-gupta/)</b> Cognitive Science MSc @ Indian Institute of Technology Delhi, India
+  - <b>[Summer Research Intern](https://cogsci.iitd.ac.in/msc2023/siddharth-gupta/)</b> Potsdam University, Germany
 - <b>Bachelor's degree</b> Computer Science Engineering @ USICT, Guru Gobind Singh Indraprastha University Delhi, India
 
 ### Projects 🐾
