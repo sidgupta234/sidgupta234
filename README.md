@@ -18,8 +18,14 @@ Interested in NLP, Linguistics, Behavioral Economics, Deep Learning, Analytics, 
 
  ### Education 🎓
 - <b>[Master’s degree](https://cogsci.iitd.ac.in/msc2023/siddharth-gupta/)</b> Cognitive Science MSc @ Indian Institute of Technology Delhi, India
-  - <b>[Summer Research Intern](https://cogsci.iitd.ac.in/msc2023/siddharth-gupta/)</b> Potsdam University, Germany
+  - <b>Summer Research Intern </b>[Potsdam University, Germany](https://www.uni-potsdam.de/en/university-of-potsdam)
 - <b>Bachelor's degree</b> Computer Science Engineering @ USICT, Guru Gobind Singh Indraprastha University Delhi, India
+
+### Public talks 🗣 / Media
+- <b> Street Interview with Asian Boss on "Why Are Millions Of Indians Giving Up Their Citizenship?"</b> (February 2023) | [Interview Video](https://www.youtube.com/watch?v=Ov1iw61L1Dk)
+- <b> Streamlit to Build & Deploy Apps like a Data Scientist</b> (November 2022)  | [Talk](https://youtu.be/hLhDlxmUQ5c?t=966) | [Slides](https://docs.google.com/presentation/d/116kf2akZFXjGsDgZsfANTk5fmDcNIljXgmTrLAyzeFo/edit?usp=sharing) | [Code walkthrough](https://github.com/sidgupta234/Pyjamas_2022_Talk) @ Pyjamas Con 2022
+- <b> Interview with Careers360 on my GATE Economics result </b> (March 2021) | [Interview Blog](https://engineering.careers360.com/articles/gate-2021-topper-interview-siddharth-gupta-air-18-xh)
+- <b> Interview with Aaj Tak Radio on the Popularity of Chess in India / भारत में शुरू हुआ शतरंज पूरी दुनिया तक कैसे पहुंचा</b> (December 2020) |  [Podcast Interview](https://podcasts.aajtak.in/history-education/explainers/history-and-origin-of-chess-and-how-the-game-progressed-1179213-2020-12-18)
 
 ### Projects 🐾
 - <b>Song Analytics & Playlist Generator</b> | [Web App](http://music-analytics-playlist-maker.herokuapp.com/) - Created dataset of Lyrics for 21K top billboard songs (out of total 28K). App shows various song properties: lyrics, audio properties, billboard rank over years; the app also create Spotify playlists based on the song.
@@ -32,9 +38,6 @@ Interested in NLP, Linguistics, Behavioral Economics, Deep Learning, Analytics, 
 - <b> Basic Python Programming notes </b> | [Jupyter notebook notes](https://github.com/sidgupta234/CodingNinjas_DataScience_MachineLearning) - This repository contains my Jupyter notebook notes for the said course by CodingNinjas. Notes have been written in a way that they are sufficient on their own to learn the basics of Python.
 - <b> Interviewbit solutions </b> | [Codes](https://github.com/sidgupta234/InterviewBit) - Popular Software Engineering interview questions posed on Interviewbit and their solutions.
 - <b> Geeks for Geeks Data Structure programs </b> | [Codes](https://github.com/sidgupta234/GFG) - Basic starter codes as well as solutions to introductory data structure problems listed on Geeks4Geeks website (Binary Tree, BST, Linked List, Queues, Stacks, Recursion, Heaps).
-
-### Public talks 🗣
-- <b>Streamlit to Build & Deploy Apps like a Data Scientist </b> | [Talk](https://youtu.be/hLhDlxmUQ5c?t=966) | [Slides](https://docs.google.com/presentation/d/116kf2akZFXjGsDgZsfANTk5fmDcNIljXgmTrLAyzeFo/edit?usp=sharing) | [Code walkthrough](https://github.com/sidgupta234/Pyjamas_2022_Talk) @ Pyjamas Con 2022
 
 ### Conference Publications / Posters 📢
 - [Language and Interaction Network Conference, Univ. of Edinburgh](https://linkedi2022.github.io)<b> | When Brain Autocorrects </b> | [Poster](https://continuous-fascinator-15a.notion.site/When-Brain-Autocorrects-0a708259d7bf45f0837d00edc259842b) - Conducted Lexical Decision Test to probe if people consider incorrectly spelled words as correct under certain conditions.
