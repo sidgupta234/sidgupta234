@@ -14,7 +14,7 @@ Interested in NLP, Linguistics, Behavioral Economics, Deep Learning, Analytics, 
 - **Languages**: Python, C++
 - **DS/ML/DL**: Pandas, Sklearn, PyTorch, Streamlit
 - **Cognitive Science relevant**:  SPM, Psychopy, R
-- **Dev related**:  Linux, Git
+- **Dev related**: Linux, Git
 
  ### Education 🎓
 - <b>[Master’s degree](https://cogsci.iitd.ac.in/msc2023/siddharth-gupta/)</b> Cognitive Science MSc @ Indian Institute of Technology Delhi, India
