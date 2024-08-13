@@ -25,7 +25,7 @@ Interested in NLP, Linguistics, Behavioral Economics, Deep Learning, Analytics, 
 - <b> EuroPython 2024 (Prague): Presentation about Presentations, tips to improve your conference talks </b> (July, 2024) [Talk](https://www.youtube.com/watch?v=E6DF2RKi7cA)
 - <b> Street Interview with Asian Boss on "Why Are Millions Of Indians Giving Up Their Citizenship?"</b> (February 2023) | [Interview Video](https://www.youtube.com/watch?v=Ov1iw61L1Dk)
 - <b> Streamlit to Build & Deploy Apps like a Data Scientist</b> (November 2022)  | [Talk](https://www.youtube.com/watch?v=B1ovhcMIbc4&list=PLiwrSoq9tHkFxO4tgpWyGSu5xoSfzzB8P&index=29) | [Slides](https://docs.google.com/presentation/d/116kf2akZFXjGsDgZsfANTk5fmDcNIljXgmTrLAyzeFo/edit?usp=sharing) | [Code walkthrough](https://github.com/sidgupta234/Pyjamas_2022_Talk) @ Pyjamas Con 2022
-- <b> Interview with Careers360 on my GATE Economics result </b> (March 2021) | [Interview Blog](https://engineering.careers360.com/articles/gate-2021-topper-interview-siddharth-gupta-air-18-xh)
+- <b> Interview with Careers360 on my GATE Economics result </b> (March 2021) | [Interview](https://web.archive.org/web/20210416075533/https://engineering.careers360.com/articles/gate-2021-topper-interview-siddharth-gupta-air-18-xh)
 - <b> Interview with Aaj Tak Radio on the Popularity of Chess in India / भारत में शुरू हुआ शतरंज पूरी दुनिया तक कैसे पहुंचा</b> (December 2020) |  [Podcast Interview](https://podcasts.aajtak.in/history-education/explainers/history-and-origin-of-chess-and-how-the-game-progressed-1179213-2020-12-18)
 
 ### Projects 🐾
