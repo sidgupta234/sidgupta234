@@ -2,6 +2,7 @@
 Interested in NLP, Linguistics, Behavioral Economics, Deep Learning, Analytics, and Academia.  When I am not consumed with college assignments, I post [YouTube videos](https://www.youtube.com/CollegeCompanion), make Discord bots, write [Twitter](https://www.twitter.com/sidgupta234) [threads](https://twitter.com/sidgupta234/status/1450455120911736839), work on automation/web app projects [Github](https://www.github.com/sidgupta234) or try threading some words on [Medium Blog](https://www.sidgupta234.medium.com).
 
 [![Linkedin Badge](https://img.shields.io/badge/-sidgupta234-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sidgupta234/)](https://www.linkedin.com/in/sidgupta234/)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=Bluesky&logoColor=white)](https://bsky.app/profile/sidgupta234.bsky.social)
 [![Twitter Badge](https://img.shields.io/badge/-sidgupta234-00acee?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/sidgupta234/)](https://www.twitter.com/sidgupta234/)
 [![Medium Badge](https://img.shields.io/badge/-@sidgupta234-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sidgupta234/)](https://medium.com/@sidgupta234)
 [![YouTube Badge](https://img.shields.io/badge/-College_Companion-ff0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/CollegeCompanion)](https://www.youtube.com/c/CollegeCompanion)
