@@ -9,7 +9,7 @@ Interested in NLP, Linguistics, Behavioral Economics, Deep Learning, Analytics, 
 [![Gmail Badge](https://img.shields.io/badge/-siddharthgupta234@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siddharthgupta234@gmail.com)](mailto:siddharthgupta234@gmail.com)
 
 <!-- ![This is Siddharth Gupta](https://i.ibb.co/FmnFhy6/kuso-Cartoon-16360057410673-avatar.jpg)-->
-<img src="https://i.imgur.com/F056Hyv.png"/>
+<!-- !<img src="https://i.imgur.com/F056Hyv.png"/>-->
 
 ### Skills 🛠️
 - **Languages**: Python, C++
